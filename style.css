@@ -33,7 +33,7 @@ body *{
 
 body{
     display: grid;
-    padding: 11rem 2rem;
+    padding: 10rem 2rem;
     background-color: var(--color-body-bg);
     font-size: 1.6rem; 
 }
